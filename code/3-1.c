@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void read_only(const int arr[],int size){
+void read_only(const int arr[],int size){ 
 
     //arr[0] = 999;
 
