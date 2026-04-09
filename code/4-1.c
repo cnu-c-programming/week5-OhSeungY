@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+ 
 void echo(){
     char buf[5];
     scanf("%4s", buf);
