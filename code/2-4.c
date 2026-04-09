@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <ctype.h>
-
+ 
 long my_strtol(char *str, char **endptr){
     long res = 0;
 
