@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main(){ 
     int val = 7;
     int other = 77;
 
