@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void double_elements(int arr[], int size){
+void double_elements(int arr[], int size){ 
     int* temp = &arr[0];
     for(int i=0; i<size; i++){
         *(temp + i) *= 2;
