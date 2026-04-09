@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void echo(){
+void echo(){ 
     char buf[5];
     fgets(buf, 5, stdin);
     printf("%s\n", buf);
