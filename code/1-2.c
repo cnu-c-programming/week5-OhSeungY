@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int sum_range(int* start, int* end){
+int sum_range(int* start, int* end){ 
     int* temp = start;
     int result = 0; 
     int count = 0;
